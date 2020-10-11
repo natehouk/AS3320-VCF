@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 1314)
+    (start_pass_no 1787)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -66,7 +66,7 @@
     GND "Net-(C1-Pad2)" "Net-(C2-Pad1)" "Net-(C3-Pad2)" "Net-(C4-Pad1)" /OUT4 "-12V" +12V
     /OUT2 /OUT3 /OUT1 "Net-(R11-Pad1)" "Net-(R13-Pad1)" "Net-(R15-Pad1)" "/FREQ_CTRL_INPUT" "Net-(R2-Pad2)"
     "Net-(R17-Pad1)" "/SIGNAL_OUTPUT" "/SIGNAL_INPUT" /VRES "Net-(R1-Pad2)" "Net-(R3-Pad1)" "Net-(R7-Pad1)" "Net-(R8-Pad2)"
-    "Net-(R8-Pad1)" "Net-(R10-Pad2)" "Net-(R19-Pad1)"
+    "Net-(R8-Pad1)" "Net-(R10-Pad2)" "Net-(R19-Pad1)" "Net-(D1-Pad2)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
