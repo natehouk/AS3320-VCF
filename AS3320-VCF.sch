@@ -128,28 +128,6 @@ F 3 "" H 1950 5750 50  0001 C CNN
 	1    1950 5750
 	0    -1   -1   0   
 $EndComp
-$Comp
-L Connector:AudioJack2 J3
-U 1 1 5F80A601
-P 1500 5850
-F 0 "J3" H 1532 6175 50  0000 C CNN
-F 1 "FREQ CNTL. INPUT" H 1532 6084 50  0000 C CNN
-F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1500 5850 50  0001 C CNN
-F 3 "~" H 1500 5850 50  0001 C CNN
-	1    1500 5850
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:AudioJack2 J4
-U 1 1 5F808990
-P 9350 3300
-F 0 "J4" H 9170 3283 50  0000 R CNN
-F 1 "AUDIO OUTPUT" H 9170 3374 50  0000 R CNN
-F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 9350 3300 50  0001 C CNN
-F 3 "~" H 9350 3300 50  0001 C CNN
-	1    9350 3300
-	-1   0    0    1   
-$EndComp
 Text Label 7100 4200 2    50   ~ 0
 VRES
 Wire Wire Line
@@ -443,17 +421,6 @@ Wire Wire Line
 Wire Wire Line
 	5850 3950 5850 4800
 $Comp
-L Connector:AudioJack2 J1
-U 1 1 5F78D8C8
-P 1500 3150
-F 0 "J1" H 1532 3475 50  0000 C CNN
-F 1 "AUDIO INPUT" H 1532 3384 50  0000 C CNN
-F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1500 3150 50  0001 C CNN
-F 3 "~" H 1500 3150 50  0001 C CNN
-	1    1500 3150
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR02
 U 1 1 5F81E5DD
 P 1950 5100
@@ -466,36 +433,19 @@ F 3 "" H 1950 5100 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	1700 5100 1950 5100
-$Comp
-L Connector:AudioJack2 J2
-U 1 1 5F80937B
-P 1500 5200
-F 0 "J2" H 1532 5525 50  0000 C CNN
-F 1 "RESONANCE CNTL. INPUT" H 1532 5434 50  0000 C CNN
-F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1500 5200 50  0001 C CNN
-F 3 "~" H 1500 5200 50  0001 C CNN
-	1    1500 5200
-	1    0    0    -1  
-$EndComp
 Text Label 4050 2950 0    50   ~ 0
 SIGNAL_INPUT
 $Comp
 L power:GND #PWR01
 U 1 1 5F7AF0DD
-P 1900 3050
-F 0 "#PWR01" H 1900 2800 50  0001 C CNN
-F 1 "GND" V 1905 2922 50  0000 R CNN
-F 2 "" H 1900 3050 50  0001 C CNN
-F 3 "" H 1900 3050 50  0001 C CNN
-	1    1900 3050
+P 1450 3050
+F 0 "#PWR01" H 1450 2800 50  0001 C CNN
+F 1 "GND" V 1455 2922 50  0000 R CNN
+F 2 "" H 1450 3050 50  0001 C CNN
+F 3 "" H 1450 3050 50  0001 C CNN
+	1    1450 3050
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	1700 3050 1900 3050
-Wire Wire Line
-	1700 3150 2300 3150
-Text Label 2300 3150 0    50   ~ 0
-SIGNAL_INPUT
 Wire Wire Line
 	3650 2950 5400 2950
 Wire Wire Line
@@ -670,7 +620,7 @@ L Connector:TestPoint TP5
 U 1 1 5F72221C
 P 3100 4450
 F 0 "TP5" V 3000 4450 50  0000 C CNN
-F 1 "FREQ_NTRL" V 2900 4450 50  0000 C CNN
+F 1 "FREQ_CTRL" V 2900 4450 50  0000 C CNN
 F 2 "SeattleSynths:TestPoint_Pad_4.0x4.0mm" H 3300 4450 50  0001 C CNN
 F 3 "~" H 3300 4450 50  0001 C CNN
 	1    3100 4450
@@ -960,4 +910,54 @@ $EndComp
 Connection ~ 6450 4500
 Wire Wire Line
 	6450 4500 6450 4600
+$Comp
+L Connector:AudioJack2_SwitchT J5
+U 1 1 5F9F3358
+P 1100 3150
+F 0 "J5" H 1132 3475 50  0000 C CNN
+F 1 "SIGNAL_INPUT" H 1132 3384 50  0000 C CNN
+F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1100 3150 50  0001 C CNN
+F 3 "~" H 1100 3150 50  0001 C CNN
+	1    1100 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 3050 1300 3050
+Wire Wire Line
+	1300 3150 1850 3150
+Text Label 1850 3150 0    50   ~ 0
+SIGNAL_INPUT
+$Comp
+L Connector:AudioJack2_SwitchT J?
+U 1 1 5FA3B8F2
+P 1500 5200
+F 0 "J?" H 1532 5525 50  0000 C CNN
+F 1 "RESONANCE_CTRL_INPUT" H 1532 5434 50  0000 C CNN
+F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1500 5200 50  0001 C CNN
+F 3 "~" H 1500 5200 50  0001 C CNN
+	1    1500 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:AudioJack2_SwitchT J?
+U 1 1 5FA4A748
+P 1500 5850
+F 0 "J?" H 1532 6175 50  0000 C CNN
+F 1 "FREQ_CTRL_INPUT" H 1532 6084 50  0000 C CNN
+F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1500 5850 50  0001 C CNN
+F 3 "~" H 1500 5850 50  0001 C CNN
+	1    1500 5850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:AudioJack2_SwitchT J?
+U 1 1 5FA52FF0
+P 9350 3300
+F 0 "J?" H 9170 3233 50  0000 R CNN
+F 1 "SIGNAL_OUTPUT" H 9170 3324 50  0000 R CNN
+F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 9350 3300 50  0001 C CNN
+F 3 "~" H 9350 3300 50  0001 C CNN
+	1    9350 3300
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
