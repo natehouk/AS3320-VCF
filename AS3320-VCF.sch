@@ -20,7 +20,7 @@ U 1 1 5FA3E301
 P 7550 3350
 F 0 "C5" V 7805 3350 50  0000 C CNN
 F 1 "1µF" V 7714 3350 50  0000 C CNN
-F 2 "SeattleSynths:CP_Radial_D5.0mm_P2.50mm" H 7588 3200 50  0001 C CNN
+F 2 "Seattle_Synths:CP_Radial_D5.0mm_P2.50mm" H 7588 3200 50  0001 C CNN
 F 3 "~" H 7550 3350 50  0001 C CNN
 	1    7550 3350
 	0    -1   -1   0   
@@ -42,7 +42,7 @@ U 1 1 5F78F01A
 P 6050 4350
 F 0 "C4" H 6165 4396 50  0000 L CNN
 F 1 "300pF" H 6165 4305 50  0000 L CNN
-F 2 "SeattleSynths:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 6088 4200 50  0001 C CNN
+F 2 "Seattle_Synths:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 6088 4200 50  0001 C CNN
 F 3 "~" H 6050 4350 50  0001 C CNN
 	1    6050 4350
 	1    0    0    -1  
@@ -79,7 +79,7 @@ U 1 1 5F7D75A4
 P 4950 3850
 F 0 "R9" V 4850 3850 50  0000 C CNN
 F 1 "100K" V 4950 3850 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4880 3850 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4880 3850 50  0001 C CNN
 F 3 "~" H 4950 3850 50  0001 C CNN
 	1    4950 3850
 	0    1    1    0   
@@ -138,7 +138,7 @@ U 1 1 5F7CC42C
 P 5600 4150
 F 0 "R10" V 5500 4150 50  0000 C CNN
 F 1 "1K8" V 5600 4150 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5530 4150 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5530 4150 50  0001 C CNN
 F 3 "~" H 5600 4150 50  0001 C CNN
 	1    5600 4150
 	-1   0    0    1   
@@ -153,7 +153,7 @@ U 1 1 5F7B99FB
 P 7550 3600
 F 0 "R20" V 7450 3600 50  0000 C CNN
 F 1 "51K" V 7550 3600 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7480 3600 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 7480 3600 50  0001 C CNN
 F 3 "~" H 7550 3600 50  0001 C CNN
 	1    7550 3600
 	0    1    1    0   
@@ -186,7 +186,7 @@ U 1 1 5F78BEF0
 P 5950 4050
 F 0 "C2" H 6065 4096 50  0000 L CNN
 F 1 "300pF" H 6065 4005 50  0000 L CNN
-F 2 "SeattleSynths:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 5988 3900 50  0001 C CNN
+F 2 "Seattle_Synths:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 5988 3900 50  0001 C CNN
 F 3 "~" H 5950 4050 50  0001 C CNN
 	1    5950 4050
 	1    0    0    -1  
@@ -201,7 +201,7 @@ U 1 1 5F7988AD
 P 6050 1800
 F 0 "C3" H 6165 1846 50  0000 L CNN
 F 1 "300pF" H 6165 1755 50  0000 L CNN
-F 2 "SeattleSynths:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 6088 1650 50  0001 C CNN
+F 2 "Seattle_Synths:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 6088 1650 50  0001 C CNN
 F 3 "~" H 6050 1800 50  0001 C CNN
 	1    6050 1800
 	1    0    0    -1  
@@ -212,7 +212,7 @@ U 1 1 5F795CD5
 P 5950 2100
 F 0 "C1" H 6065 2146 50  0000 L CNN
 F 1 "300pF" H 6065 2055 50  0000 L CNN
-F 2 "SeattleSynths:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 5988 1950 50  0001 C CNN
+F 2 "Seattle_Synths:C_Disc_D7.5mm_W2.5mm_P5.00mm" H 5988 1950 50  0001 C CNN
 F 3 "~" H 5950 2100 50  0001 C CNN
 	1    5950 2100
 	1    0    0    -1  
@@ -233,7 +233,7 @@ U 1 1 5F772E19
 P 4500 2850
 F 0 "R4" V 4400 2850 50  0000 C CNN
 F 1 "220K" V 4500 2850 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4430 2850 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4430 2850 50  0001 C CNN
 F 3 "~" H 4500 2850 50  0001 C CNN
 	1    4500 2850
 	0    1    1    0   
@@ -244,7 +244,7 @@ U 1 1 5F773714
 P 4500 3050
 F 0 "R5" V 4400 3050 50  0000 C CNN
 F 1 "220K" V 4500 3050 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4430 3050 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4430 3050 50  0001 C CNN
 F 3 "~" H 4500 3050 50  0001 C CNN
 	1    4500 3050
 	0    1    1    0   
@@ -255,7 +255,7 @@ U 1 1 5F77394E
 P 4500 3250
 F 0 "R6" V 4400 3250 50  0000 C CNN
 F 1 "220K" V 4500 3250 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4430 3250 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4430 3250 50  0001 C CNN
 F 3 "~" H 4500 3250 50  0001 C CNN
 	1    4500 3250
 	0    1    1    0   
@@ -308,7 +308,7 @@ U 1 1 5F76D9D4
 P 5750 3750
 F 0 "R18" V 5650 3750 50  0000 C CNN
 F 1 "100K" V 5750 3750 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 3750 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 3750 50  0001 C CNN
 F 3 "~" H 5750 3750 50  0001 C CNN
 	1    5750 3750
 	0    1    1    0   
@@ -319,7 +319,7 @@ U 1 1 5F76D79B
 P 5750 3550
 F 0 "R17" V 5650 3550 50  0000 C CNN
 F 1 "91K" V 5750 3550 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 3550 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 3550 50  0001 C CNN
 F 3 "~" H 5750 3550 50  0001 C CNN
 	1    5750 3550
 	0    1    1    0   
@@ -330,7 +330,7 @@ U 1 1 5F76D48F
 P 5750 3350
 F 0 "R16" V 5650 3350 50  0000 C CNN
 F 1 "100K" V 5750 3350 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 3350 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 3350 50  0001 C CNN
 F 3 "~" H 5750 3350 50  0001 C CNN
 	1    5750 3350
 	0    1    1    0   
@@ -341,7 +341,7 @@ U 1 1 5F76CF6B
 P 5750 3150
 F 0 "R15" V 5650 3150 50  0000 C CNN
 F 1 "91K" V 5750 3150 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 3150 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 3150 50  0001 C CNN
 F 3 "~" H 5750 3150 50  0001 C CNN
 	1    5750 3150
 	0    1    1    0   
@@ -367,7 +367,7 @@ U 1 1 5F764DC1
 P 5750 2950
 F 0 "R14" V 5650 2950 50  0000 C CNN
 F 1 "100K" V 5750 2950 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 2950 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 2950 50  0001 C CNN
 F 3 "~" H 5750 2950 50  0001 C CNN
 	1    5750 2950
 	0    1    1    0   
@@ -378,7 +378,7 @@ U 1 1 5F763E03
 P 5750 2750
 F 0 "R13" V 5650 2750 50  0000 C CNN
 F 1 "91K" V 5750 2750 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 2750 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 2750 50  0001 C CNN
 F 3 "~" H 5750 2750 50  0001 C CNN
 	1    5750 2750
 	0    1    1    0   
@@ -397,7 +397,7 @@ U 1 1 5F760B27
 P 5750 2350
 F 0 "R11" V 5650 2350 50  0000 C CNN
 F 1 "91K" V 5750 2350 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 2350 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 2350 50  0001 C CNN
 F 3 "~" H 5750 2350 50  0001 C CNN
 	1    5750 2350
 	0    1    1    0   
@@ -408,7 +408,7 @@ U 1 1 5F76151C
 P 5750 2550
 F 0 "R12" V 5650 2550 50  0000 C CNN
 F 1 "100K" V 5750 2550 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 2550 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5680 2550 50  0001 C CNN
 F 3 "~" H 5750 2550 50  0001 C CNN
 	1    5750 2550
 	0    1    1    0   
@@ -492,7 +492,7 @@ U 1 1 5F75F277
 P 6650 3150
 F 0 "U1" H 6650 4031 50  0000 C CNN
 F 1 "AS3320" H 6650 3940 50  0000 C CNN
-F 2 "SeattleSynths:DIP-18_W7.62mm" H 7250 2850 50  0001 C CNN
+F 2 "Seattle_Synths:DIP-18_W7.62mm_Socket" H 7250 2850 50  0001 C CNN
 F 3 "http://www.alfarzpp.lv/eng/sc/AS3320.pdf" H 7650 2750 50  0001 C CNN
 	1    6650 3150
 	1    0    0    -1  
@@ -503,7 +503,7 @@ U 1 1 5F70AA25
 P 3850 2350
 F 0 "TP6" V 4045 2422 50  0000 C CNN
 F 1 "INPUT" V 3954 2422 50  0000 C CNN
-F 2 "SeattleSynths:TestPoint_Pad_4.0x4.0mm" H 4050 2350 50  0001 C CNN
+F 2 "Seattle_Synths:TestPoint_Pad_4.0x4.0mm" H 4050 2350 50  0001 C CNN
 F 3 "~" H 4050 2350 50  0001 C CNN
 	1    3850 2350
 	0    -1   -1   0   
@@ -514,7 +514,7 @@ U 1 1 5F7195C6
 P 9800 5200
 F 0 "TP2" V 9754 5388 50  0000 L CNN
 F 1 "+12V" V 9845 5388 50  0000 L CNN
-F 2 "SeattleSynths:TestPoint_Pad_4.0x4.0mm" H 10000 5200 50  0001 C CNN
+F 2 "Seattle_Synths:TestPoint_Pad_4.0x4.0mm" H 10000 5200 50  0001 C CNN
 F 3 "~" H 10000 5200 50  0001 C CNN
 	1    9800 5200
 	0    1    1    0   
@@ -525,7 +525,7 @@ U 1 1 5F7358EE
 P 8950 3350
 F 0 "TP7" V 8904 3538 50  0000 L CNN
 F 1 "OUTPUT" V 8995 3538 50  0000 L CNN
-F 2 "SeattleSynths:TestPoint_Pad_4.0x4.0mm" H 9150 3350 50  0001 C CNN
+F 2 "Seattle_Synths:TestPoint_Pad_4.0x4.0mm" H 9150 3350 50  0001 C CNN
 F 3 "~" H 9150 3350 50  0001 C CNN
 	1    8950 3350
 	0    1    1    0   
@@ -540,7 +540,7 @@ U 1 1 5F7AD4D8
 P 4950 3650
 F 0 "R8" V 4850 3650 50  0000 C CNN
 F 1 "100K" V 4950 3650 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4880 3650 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4880 3650 50  0001 C CNN
 F 3 "~" H 4950 3650 50  0001 C CNN
 	1    4950 3650
 	0    1    1    0   
@@ -551,7 +551,7 @@ U 1 1 5F7219B7
 P 1650 3650
 F 0 "TP1" V 1845 3722 50  0000 C CNN
 F 1 "RES_CTRL" V 1754 3722 50  0000 C CNN
-F 2 "SeattleSynths:TestPoint_Pad_4.0x4.0mm" H 1850 3650 50  0001 C CNN
+F 2 "Seattle_Synths:TestPoint_Pad_4.0x4.0mm" H 1850 3650 50  0001 C CNN
 F 3 "~" H 1850 3650 50  0001 C CNN
 	1    1650 3650
 	0    -1   -1   0   
@@ -566,7 +566,7 @@ U 1 1 5F72221C
 P 3300 3850
 F 0 "TP5" V 3200 3850 50  0000 C CNN
 F 1 "FREQ_CTRL" V 3100 3850 50  0000 C CNN
-F 2 "SeattleSynths:TestPoint_Pad_4.0x4.0mm" H 3500 3850 50  0001 C CNN
+F 2 "Seattle_Synths:TestPoint_Pad_4.0x4.0mm" H 3500 3850 50  0001 C CNN
 F 3 "~" H 3500 3850 50  0001 C CNN
 	1    3300 3850
 	0    -1   -1   0   
@@ -584,7 +584,7 @@ U 1 1 5F8A0C6C
 P 4600 4150
 F 0 "RV2" V 4485 4150 50  0000 C CNN
 F 1 "100K" V 4394 4150 50  0000 C CNN
-F 2 "SeattleSynths:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" H 4600 4150 50  0001 C CNN
+F 2 "Seattle_Synths:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" H 4600 4150 50  0001 C CNN
 F 3 "~" H 4600 4150 50  0001 C CNN
 	1    4600 4150
 	0    -1   -1   0   
@@ -595,7 +595,7 @@ U 1 1 5F8A8F6B
 P 4200 4350
 F 0 "R3" H 4270 4396 50  0000 L CNN
 F 1 "50K" H 4270 4305 50  0000 L CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4130 4350 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4130 4350 50  0001 C CNN
 F 3 "~" H 4200 4350 50  0001 C CNN
 	1    4200 4350
 	1    0    0    -1  
@@ -610,7 +610,7 @@ U 1 1 5F8B0E84
 P 4900 4350
 F 0 "R7" H 4970 4396 50  0000 L CNN
 F 1 "50K" H 4970 4305 50  0000 L CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4830 4350 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4830 4350 50  0001 C CNN
 F 3 "~" H 4900 4350 50  0001 C CNN
 	1    4900 4350
 	1    0    0    -1  
@@ -638,7 +638,7 @@ U 1 1 5F94EC0B
 P 2950 3350
 F 0 "RV1" V 2743 3350 50  0000 C CNN
 F 1 "100K" V 2834 3350 50  0000 C CNN
-F 2 "SeattleSynths:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" H 2950 3350 50  0001 C CNN
+F 2 "Seattle_Synths:Potentiometer_Alpha_RD901F-40-00D_Single_Vertical" H 2950 3350 50  0001 C CNN
 F 3 "~" H 2950 3350 50  0001 C CNN
 	1    2950 3350
 	0    1    1    0   
@@ -649,7 +649,7 @@ U 1 1 5F94F676
 P 2550 3100
 F 0 "R1" H 2620 3146 50  0000 L CNN
 F 1 "330R" H 2620 3055 50  0000 L CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2480 3100 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2480 3100 50  0001 C CNN
 F 3 "~" H 2550 3100 50  0001 C CNN
 	1    2550 3100
 	1    0    0    -1  
@@ -660,7 +660,7 @@ U 1 1 5F950AF7
 P 3250 3100
 F 0 "R2" H 3320 3146 50  0000 L CNN
 F 1 "72K" H 3320 3055 50  0000 L CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3180 3100 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 3180 3100 50  0001 C CNN
 F 3 "~" H 3250 3100 50  0001 C CNN
 	1    3250 3100
 	1    0    0    -1  
@@ -706,7 +706,7 @@ U 1 1 5F9C1F74
 P 8900 1850
 F 0 "D1" H 8893 1595 50  0000 C CNN
 F 1 "LED" H 8893 1686 50  0000 C CNN
-F 2 "SeattleSynths:LED_D5.0mm" H 8900 1850 50  0001 C CNN
+F 2 "Seattle_Synths:LED_D5.0mm" H 8900 1850 50  0001 C CNN
 F 3 "~" H 8900 1850 50  0001 C CNN
 	1    8900 1850
 	-1   0    0    1   
@@ -728,7 +728,7 @@ U 1 1 5F9C722A
 P 8350 1850
 F 0 "R21" V 8143 1850 50  0000 C CNN
 F 1 "330R" V 8234 1850 50  0000 C CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 8280 1850 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 8280 1850 50  0001 C CNN
 F 3 "~" H 8350 1850 50  0001 C CNN
 	1    8350 1850
 	0    1    1    0   
@@ -756,7 +756,7 @@ U 1 1 5F7C0487
 P 6650 4150
 F 0 "R19" V 6550 4100 50  0000 L CNN
 F 1 "1K8" V 6650 4100 50  0000 L CNN
-F 2 "SeattleSynths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6580 4150 50  0001 C CNN
+F 2 "Seattle_Synths:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 6580 4150 50  0001 C CNN
 F 3 "~" H 6650 4150 50  0001 C CNN
 	1    6650 4150
 	1    0    0    -1  
@@ -813,7 +813,7 @@ U 1 1 5F9F3358
 P 1300 2550
 F 0 "J1" H 1332 2875 50  0000 C CNN
 F 1 "SIGNAL_INPUT" H 1332 2784 50  0000 C CNN
-F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1300 2550 50  0001 C CNN
+F 2 "Seattle_Synths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1300 2550 50  0001 C CNN
 F 3 "~" H 1300 2550 50  0001 C CNN
 	1    1300 2550
 	1    0    0    -1  
@@ -830,7 +830,7 @@ U 1 1 5FA3B8F2
 P 1700 4600
 F 0 "J2" H 1732 4925 50  0000 C CNN
 F 1 "RESONANCE_CTRL_INPUT" H 1732 4834 50  0000 C CNN
-F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1700 4600 50  0001 C CNN
+F 2 "Seattle_Synths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1700 4600 50  0001 C CNN
 F 3 "~" H 1700 4600 50  0001 C CNN
 	1    1700 4600
 	1    0    0    -1  
@@ -841,7 +841,7 @@ U 1 1 5FA4A748
 P 1700 5250
 F 0 "J3" H 1732 5575 50  0000 C CNN
 F 1 "FREQ_CTRL_INPUT" H 1732 5484 50  0000 C CNN
-F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1700 5250 50  0001 C CNN
+F 2 "Seattle_Synths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 1700 5250 50  0001 C CNN
 F 3 "~" H 1700 5250 50  0001 C CNN
 	1    1700 5250
 	1    0    0    -1  
@@ -852,7 +852,7 @@ U 1 1 5FA52FF0
 P 9550 2700
 F 0 "J4" H 9370 2633 50  0000 R CNN
 F 1 "SIGNAL_OUTPUT" H 9370 2724 50  0000 R CNN
-F 2 "SeattleSynths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 9550 2700 50  0001 C CNN
+F 2 "Seattle_Synths:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles" H 9550 2700 50  0001 C CNN
 F 3 "~" H 9550 2700 50  0001 C CNN
 	1    9550 2700
 	-1   0    0    1   
@@ -863,7 +863,7 @@ U 1 1 5FC34110
 P 8950 5650
 F 0 "C6" V 8698 5650 50  0000 C CNN
 F 1 "10uF" V 8789 5650 50  0000 C CNN
-F 2 "" H 8988 5500 50  0001 C CNN
+F 2 "Seattle_Synths:CP_Radial_D5.0mm_P2.50mm" H 8988 5500 50  0001 C CNN
 F 3 "~" H 8950 5650 50  0001 C CNN
 	1    8950 5650
 	0    1    1    0   
@@ -874,7 +874,7 @@ U 1 1 5FC34AAA
 P 9950 5650
 F 0 "C7" V 9698 5650 50  0000 C CNN
 F 1 "10uF" V 9789 5650 50  0000 C CNN
-F 2 "" H 9988 5500 50  0001 C CNN
+F 2 "Seattle_Synths:CP_Radial_D5.0mm_P2.50mm" H 9988 5500 50  0001 C CNN
 F 3 "~" H 9950 5650 50  0001 C CNN
 	1    9950 5650
 	0    1    1    0   
@@ -985,7 +985,7 @@ U 1 1 5FCC22B5
 P 9450 5350
 F 0 "TP4" V 9404 5538 50  0000 L CNN
 F 1 "GND" V 9495 5538 50  0000 L CNN
-F 2 "SeattleSynths:TestPoint_Pad_4.0x4.0mm" H 9650 5350 50  0001 C CNN
+F 2 "Seattle_Synths:TestPoint_Pad_4.0x4.0mm" H 9650 5350 50  0001 C CNN
 F 3 "~" H 9650 5350 50  0001 C CNN
 	1    9450 5350
 	-1   0    0    1   
@@ -1001,7 +1001,7 @@ U 1 1 5FD28C75
 P 7400 5500
 F 0 "J5" H 7400 5947 60  0000 C CNN
 F 1 "EURO_PWR_2x5" H 7400 5841 60  0000 C CNN
-F 2 "" H 7400 5500 60  0000 C CNN
+F 2 "Seattle_Synths:PinHeader_2x05_P2.54mm_Vertical" H 7400 5500 60  0001 C CNN
 F 3 "" H 7400 5500 60  0000 C CNN
 	1    7400 5500
 	1    0    0    -1  
@@ -1012,7 +1012,7 @@ U 1 1 5FCBED0C
 P 9100 5200
 F 0 "TP3" V 9054 5388 50  0000 L CNN
 F 1 "-12V" V 9145 5388 50  0000 L CNN
-F 2 "SeattleSynths:TestPoint_Pad_4.0x4.0mm" H 9300 5200 50  0001 C CNN
+F 2 "Seattle_Synths:TestPoint_Pad_4.0x4.0mm" H 9300 5200 50  0001 C CNN
 F 3 "~" H 9300 5200 50  0001 C CNN
 	1    9100 5200
 	0    -1   -1   0   

@@ -1,4 +1,4 @@
-19096047279164061
+19107258681840061
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76489,6 +76489,27 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil
 8
 8
 Seattle_Synths
+DIP-8_W7.62mm_Socket
+8-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+8
+8
+Seattle_Synths
+DIP-14_W7.62mm
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+Seattle_Synths
+DIP-14_W7.62mm_Socket
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+14
+14
+Seattle_Synths
 DIP-16_W7.62mm
 16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
 THT DIP DIL PDIP 2.54mm 7.62mm 300mil
@@ -76496,9 +76517,23 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil
 16
 16
 Seattle_Synths
+DIP-16_W7.62mm_Socket
+16-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
+0
+16
+16
+Seattle_Synths
 DIP-18_W7.62mm
 18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
 THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+18
+18
+Seattle_Synths
+DIP-18_W7.62mm_Socket
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
 0
 18
 18
@@ -76523,6 +76558,13 @@ LED diameter 5.0mm 2 pins
 0
 2
 2
+Seattle_Synths
+MountingHole_3.2mm_M3_Oval
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
 Seattle_Synths
 PinHeader_2x05_P2.54mm_Vertical
 Through hole straight pin header, 2x05, 2.54mm pitch, double rows
@@ -76565,6 +76607,13 @@ tact sw push 6mm
 0
 4
 2
+Seattle_Synths
+SW_Toggle_Blue_wSlots
+SW Toggle
+SW Toggle
+0
+3
+3
 Seattle_Synths
 TestPoint_Pad_4.0x4.0mm
 SMD rectangular pad as test Point, square 4.0mm side length
