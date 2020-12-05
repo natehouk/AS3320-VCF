@@ -1,4 +1,4 @@
-19108863619477061
+19124984585195061
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76461,6 +76461,20 @@ rotary encoder
 5
 4
 Seattle_Synths
+3M_2510-6002UB
+
+
+0
+10
+10
+Seattle_Synths
+61201021621
+WR-BHD 2.54mm Male Box Header, 10 Pins
+
+0
+10
+10
+Seattle_Synths
 CP_Radial_D5.0mm_P2.50mm
 CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor
 CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor
@@ -76474,6 +76488,13 @@ CUI_MJ-63052A
 0
 3
 3
+Seattle_Synths
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
 Seattle_Synths
 C_Disc_D7.5mm_W2.5mm_P5.00mm
 C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=7.5*2.5mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
@@ -76538,6 +76559,13 @@ THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket
 18
 18
 Seattle_Synths
+D_0603_1608Metric
+Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Seattle_Synths
 D_DO-35_SOD27_P7.62mm_Horizontal
 Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
 Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
@@ -76566,12 +76594,26 @@ mounting hole 3.2mm no annular m3
 0
 0
 Seattle_Synths
+P0915N-FC15BR100K
+
+
+0
+5
+5
+Seattle_Synths
 PinHeader_2x05_P2.54mm_Vertical
 Through hole straight pin header, 2x05, 2.54mm pitch, double rows
 Through hole pin header THT 2x05 2.54mm double row
 0
 10
 10
+Seattle_Synths
+PinHeader_2x08_P1.00mm_Vertical
+Through hole straight pin header, 2x08, 1.00mm pitch, double rows
+Through hole pin header THT 2x08 1.00mm double row
+0
+16
+16
 Seattle_Synths
 Potentiometer_Alpha_RD901F-40-00D_Single_Vertical
 Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
@@ -76587,6 +76629,13 @@ Potentiometer Trimmer RM-065
 3
 3
 Seattle_Synths
+R_0603_1608Metric
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+Seattle_Synths
 R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
 Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
 Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm
@@ -76600,6 +76649,13 @@ SW_M2044SS1W03
 0
 12
 12
+Seattle_Synths
+SW_PS1024ALRED
+
+
+0
+2
+2
 Seattle_Synths
 SW_PUSH_6mm_H5mm
 tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
@@ -76615,7 +76671,21 @@ SW Toggle
 3
 3
 Seattle_Synths
+THONK_PJ398SM-12
+
+
+0
+3
+3
+Seattle_Synths
 TRIM_3266W-1-102LF
+
+
+0
+3
+3
+Seattle_Synths
+TRIM_3266Y-1-103LF
 
 
 0
