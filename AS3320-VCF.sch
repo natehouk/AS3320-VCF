@@ -1368,17 +1368,6 @@ F 3 "" H 2800 3750 50  0001 C CNN
 $EndComp
 $Comp
 L Seattle_Synths:R R?
-U 1 1 603A57CE
-P 2400 4150
-F 0 "R?" V 2500 4150 50  0000 C CNN
-F 1 "180K" V 2400 4150 50  0000 C CNN
-F 2 "" V 2330 4150 50  0001 C CNN
-F 3 "~" H 2400 4150 50  0001 C CNN
-	1    2400 4150
-	0    1    -1   0   
-$EndComp
-$Comp
-L Seattle_Synths:R R?
 U 1 1 603ABE14
 P 2400 4500
 F 0 "R?" V 2500 4500 50  0000 C CNN
@@ -1432,23 +1421,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl081.pdf" H 3100 3850 50  0001 C CNN
 	2    3100 3850
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	2550 3950 2550 4150
-Wire Wire Line
-	2550 4150 2550 4300
-Connection ~ 2550 4150
 Connection ~ 2550 6300
-$Comp
-L power:-12V #PWR?
-U 1 1 603D8FE0
-P 2250 4150
-F 0 "#PWR?" H 2250 4250 50  0001 C CNN
-F 1 "-12V" V 2250 4350 50  0000 C CNN
-F 2 "" H 2250 4150 50  0001 C CNN
-F 3 "" H 2250 4150 50  0001 C CNN
-	1    2250 4150
-	0    -1   -1   0   
-$EndComp
 $Comp
 L Seattle_Synths:R R?
 U 1 1 603DA24D
@@ -1688,4 +1661,33 @@ Wire Wire Line
 	6600 3650 6600 3900
 Text Label 4050 5350 0    50   ~ 0
 VCFI
+Connection ~ 2550 4150
+Wire Wire Line
+	2550 4150 2550 4300
+Wire Wire Line
+	2550 3950 2550 4150
+$Comp
+L Seattle_Synths:R R?
+U 1 1 603A57CE
+P 2400 4150
+F 0 "R?" V 2500 4150 50  0000 C CNN
+F 1 "180K" V 2400 4150 50  0000 C CNN
+F 2 "" V 2330 4150 50  0001 C CNN
+F 3 "~" H 2400 4150 50  0001 C CNN
+	1    2400 4150
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:-12V #PWR?
+U 1 1 603D8FE0
+P 2100 4150
+F 0 "#PWR?" H 2100 4250 50  0001 C CNN
+F 1 "-12V" V 2100 4350 50  0000 C CNN
+F 2 "" H 2100 4150 50  0001 C CNN
+F 3 "" H 2100 4150 50  0001 C CNN
+	1    2100 4150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2100 4150 2250 4150
 $EndSCHEMATC
