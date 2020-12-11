@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 5)
+    (drawings 7)
     (tracks 454)
     (zones 0)
     (modules 70)
@@ -3171,8 +3171,14 @@
     (pad "" np_thru_hole oval (at 0 0) (size 7.4 3.2) (drill oval 7.4 3.2) (layers *.Cu *.Mask))
   )
 
+  (gr_text "MAKE SYNTHS NOT WAR" (at 137.668 63.5 90) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "THIS MACHINE KILLS FASCISTS" (at 157.734 94.234 90) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_line (start 173.03 25.65) (end 173.03 156.71) (layer Edge.Cuts) (width 0.05))
-  (gr_text "Seattle Synths\nSS-VCF-1\nRev. 2, 2020-12-07\nDesigned by Nathaniel Houk\nMade with love <3" (at 121.92 138.43 90) (layer F.SilkS)
+  (gr_text "SEATTLE SYNTHS\nSS-VCF-1\nREV. 2, 2020-12-07\nDESIGNED BY NATHANIEL HOUK\nMADE WITH LOVE <3" (at 123.444 138.43 90) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 101.78 25.65) (end 173.03 25.65) (layer Edge.Cuts) (width 0.05))
@@ -3634,7 +3640,7 @@
   (segment (start 155.3899 128.1064) (end 145.3069 128.1064) (width 0.25) (layer B.Cu) (net 46))
   (segment (start 145.3069 128.1064) (end 140.8253 132.588) (width 0.25) (layer B.Cu) (net 46))
 
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5FD17209) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 5FD1747C) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
