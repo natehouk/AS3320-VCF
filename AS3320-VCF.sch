@@ -4,7 +4,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "VCF-1"
+Title "SS-VCF-1"
 Date "2020-12-06"
 Rev "2"
 Comp "Seattle Synths"
